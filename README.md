@@ -1,2 +1,4 @@
-# kayyynic.github.io
-portfolio for Kayla Ciruolo
+# Portfolio Site for Kayla Ciruolo
+## Credits:
+  @RealDogDad
+  @KayyyNic
